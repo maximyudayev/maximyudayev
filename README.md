@@ -10,15 +10,15 @@ My work emphasizes efficiency, reliability, and downstream impact, at the inters
 
 🛠️ **Key Skills**: Distributed Systems, Realtime Streaming Architectures, High-Throughput Data Acquisition, High Performance Computing, AI/ML, Video Processing, Electronics Design, FPGAs
 
-![C/С++](https://img.shields.io/badge/C\/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%237A76FF.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![HIP](https://img.shields.io/badge/HIP-%23ED1C24.svg?style=for-the-badge&logo=amd&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-%2376B900.svg?style=for-the-badge&logo=nvidia&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-%231a348f.svg?style=for-the-badge)
-![OpenMP](https://img.shields.io/badge/OpenMP-%2300737d.svg?style=for-the-badge)
-![MPI](https://img.shields.io/badge/MPI-%232980b9.svg?style=for-the-badge)
+[![C/С++](https://img.shields.io/badge/C\/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)](#)
+[![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)](#)
+[![Plotly](https://img.shields.io/badge/Plotly-%237A76FF.svg?style=for-the-badge&logo=plotly&logoColor=white)](#)
+[![HIP](https://img.shields.io/badge/HIP-%23ED1C24.svg?style=for-the-badge&logo=amd&logoColor=white)](#)
+[![CUDA](https://img.shields.io/badge/CUDA-%2376B900.svg?style=for-the-badge&logo=nvidia&logoColor=white)](#)
+[![Verilog](https://img.shields.io/badge/Verilog-%231a348f.svg?style=for-the-badge)](#)
+[![OpenMP](https://img.shields.io/badge/OpenMP-%2300737d.svg?style=for-the-badge)](#)
+[![MPI](https://img.shields.io/badge/MPI-%232980b9.svg?style=for-the-badge)](#)
 
 ---
 
