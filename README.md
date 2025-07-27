@@ -1,6 +1,6 @@
 # Hi, I’m Maxim 👋
 
-**PhD Researcher | Distributed Realtime Systems Architect**
+**PhD Researcher | Distributed Realtime Systems Architect | Edge AI and HPC Engineer**
 
 I leverage systems thinking to conceptualize and develop efficient distributed realtime sensing and AI processing systems for novel HealthTech applications at the Edge and on HPC (high-performance computing).
 
