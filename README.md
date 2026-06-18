@@ -29,8 +29,10 @@ When not in front of 💻, you'l find me 🪂🏍️🧗🏻‍♂️🧑🏻‍
 
 ## 🏆 Highlighted Projects
 
-- [**Distributed Realtime Sensing & Edge AI Processing for Closed-Loop Healthcare Systems**](https://github.com/maximyudayev/hermes)  
-  *Among my proudest achievements is the development of an end-to-end system for synchronized, continuously streaming distributed realtime physiological sensing and edge AI processing — democratizing access to novel closed-loop wearable healthcare solutions.*
+- [**HERMES: Multimodal Realtime Sensing & Edge AI Processing for Closed-Loop Healthcare Systems**](https://github.com/maximyudayev/hermes)  
+  *Among my proudest achievements is the development of a real-world validated framework for synchronized, distributed multimodal sensing, and realtime edge AI processing — democratizing access to high quality data collection, and prototyping of closed-loop wearable systems.*
+- [**OpenAssist: Reliable Multimodal AI-driven Wearable Robotics for Impaired Populations in the Real-world**](#) [_Coming..._]  
+  *OpenAssist builds on HERMES to bridge the gap between active wearable robotics (exoskeletons, prostheses) and state-of-the-art multimodal AI models from mainstream PyTorch workflows — lowering barriers to adoption of frontier AI and building of robust assistive devices.*
 
 ---
 
