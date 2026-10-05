@@ -1,6 +1,6 @@
 # Hi, I’m Maxim 👋
 
-**Intelligent Wearable Tech PhD Researcher | Edge AI and High Performance Computing Engineer | Vibecode Fixer**
+**Wearable Tech Engineer | Edge AI and High Performance Computing | Vibecode Fixer**
 
 I leverage systems thinking to conceptualize and develop efficient distributed realtime sensing and AI processing systems for novel HealthTech applications at the Edge and on HPC (high-performance computing).
 
